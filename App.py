@@ -98,3 +98,4 @@ st.markdown("""
 - Les PDFs scannés (images) nécessitent de l'OCR (p.ex. pytesseract) — fonctionnalité non incluse ici.
 - Si l'extraction renvoie peu ou pas de texte, essayez d'ouvrir le PDF dans un lecteur pour vérifier s'il contient du texte sélectionnable.
 """)
+st.caption("Cette application ")
